@@ -4,7 +4,7 @@
  */
 
 // This file contains style definitions that can be used by CKEditor plugins.
-//  f
+//
 // The most common use for it is the "stylescombo" plugin which shows the Styles drop-down
 // list containing all styles in the editor toolbar. Other plugins, like
 // the "div" plugin, use a subset of the styles for their features.
@@ -134,3 +134,4 @@ CKEDITOR.stylesSet.add( 'default', [
 	{ name: '1080p ', type: 'widget', widget: 'embed', attributes: { 'class': 'embed-1080p' }, group: 'size' }
 
 ] );
+
